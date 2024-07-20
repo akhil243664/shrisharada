@@ -2384,6 +2384,7 @@ select:focus {
     width: 100%;
 }
 .welcome-image-box .image2{
+    background-color: #f4f5f7;
     position: absolute;
     bottom: 0;
     right: 0;
@@ -2865,6 +2866,7 @@ select:focus {
 
 
 .single-service-style1 .text-holder{
+    height: 300px;
     position: relative;
     display: block;
     overflow: hidden;

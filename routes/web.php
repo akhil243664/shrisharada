@@ -12,7 +12,16 @@ use Illuminate\Support\Facades\Route;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
+Route::group(['prefix' => '/', 'namespace' => 'App\Http\Controllers\Home'], function () { 
 
-Route::get('/', function () {
-    return view('home');
+    Route::get('services/{slug}','HomepageController@showService')->name('services.show');
+
+    Route::get('/', function () { return view('home'); });
+    Route::get('/aboutus', function () { return view('pages.aboutus'); });
+    Route::get('/our-doctor', function () { return view('pages.ourdoctor'); });
+    Route::get('/faq', function () { return view('pages.faq'); });
+    Route::get('/contact', function () { return view('pages.contact'); });
+
 });
+
+
