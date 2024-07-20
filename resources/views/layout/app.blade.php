@@ -129,14 +129,19 @@
                                             </li>
                                             <li class="dropdown"><a href="{{url('/')}}">Services</a>
                                                 <ul>
-                                                    {{-- <li><a href="services.html">View All Services</a></li> --}}
-                                                    <li><a href="{{url('services/surgical-procedure')}}">Surgical Procedure</a>
-                                                    </li>
+                                                    {{-- <li><a href="{{url('services/surgical-procedure')}}">Surgical Procedure</a></li>
                                                     <li><a href="{{url('services/all-laser-lasik')}}">All Laser Lasik</a></li>
                                                     <li><a href="{{url('services/cornea-glaucoma')}}">Cornea & Glaucoma</a></li>
                                                     <li><a href="{{url('services/eye-surgery')}}">Eye Surgery</a></li>
                                                     <li><a href="{{url('services/eye-test-care')}}">Eye Test Care</a></li>
-                                                    <li><a href="{{url('services/contact-lenses')}}">Contact Lenses</a></li>
+                                                    <li><a href="{{url('services/contact-lenses')}}">Contact Lenses</a></li> --}}
+                                                    <li><a href="{{ url('services/advanced-cataract-surgeries') }}">Advanced Cataract Surgeries</a></li>
+                                                    <li><a href="{{ url('services/retina-clinic') }}">Retina Clinic</a></li>
+                                                    <li><a href="{{ url('services/glaucoma-clinic') }}">Glaucoma Clinic</a></li>
+                                                    <li><a href="{{ url('services/oculoplasty-services') }}">Oculoplasty Services</a></li>
+                                                    <li><a href="{{ url('services/pediatric-ophthalmology-services') }}">Pediatric Ophthalmology Services</a></li>
+                                                    <li><a href="{{ url('services/low-vision-rehabilitation') }}">Low Vision Rehabilitation</a></li>
+                                                    <li><a href="{{ url('services/emergency-eye-care') }}">Emergency Eye Care</a></li>
                                                 </ul>
                                             </li>
                                             {{-- <li class="dropdown"><a href="{{url('/')}}">News</a>
