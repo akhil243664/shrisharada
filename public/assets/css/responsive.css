@@ -1653,11 +1653,20 @@
     position: relative;
     display: block;
     overflow: hidden;
-    padding: 93px 0px 100px;
+    padding: 93px 0px 50px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-}    
+}  
+
+.slide-1 .image-layer {
+    background-image: url('public/assets/images/slides/slide111_mob.jpg');
+}
+
+.slide-2 .image-layer {
+    background-image: url('public/assets/images/slides/slide22_mob.jpg');
+}
+
 .main-slider.style1 {
     margin-top: 0;
 }  

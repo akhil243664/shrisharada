@@ -6,15 +6,32 @@
             <!-- Banner Carousel -->
             <div class="banner-carousel owl-theme owl-carousel">
                 <!-- Slide -->
-                <div class="slide">
+                <div class="slide slide-1">
                     <div class="icon-holder">
-                        <img src="{{ url('public/assets/images/icon/eye.png') }}" alt="Eye Icon">
+                        <img class="eyeicon" src="{{ url('public/assets/images/resources/logo1.png') }}" alt="Eye Icon">
                     </div>
-                    <div class="image-layer" style="background-image:url(public/assets/images/slides/slide-v1-1.jpg)"></div>
+                    <div class="image-layer" style="background-image:url(public/assets/images/slides/slide111.jpg)"></div>
                     <div class="auto-container">
                         <div class="content right">
                             <h3>Welcome to Shrisharada</h3>
-                            <h2>Optometrist<br> & eyes care<br> specialist</h2>
+                            <h2>Eye & Ears<br> Hospital</h2>
+                            <div class="btns-box">
+                                <a class="btn-one" href="#"><span class="txt">Discover More<i
+                                            class="fa fa-angle-double-right round" aria-hidden="true"></i></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Slide -->
+                <div class="slide slide-2">
+                    <div class="icon-holder">
+                        <img class="eyeicon" src="{{ url('public/assets/images/resources/logo1.png') }}" alt="Eye Icon">
+                    </div>
+                    <div class="image-layer" style="background-image:url(public/assets/images/slides/slide22.jpg)"></div>
+                    <div class="auto-container">
+                        <div class="content right">
+                            <h3>Welcome to Shrisharada</h3>
+                            <h2>Eye & Ears<br> Hospital</h2>
                             <div class="btns-box">
                                 <a class="btn-one" href="#"><span class="txt">Discover More<i
                                             class="fa fa-angle-double-right round" aria-hidden="true"></i></span></a>
@@ -25,30 +42,13 @@
                 <!-- Slide -->
                 <div class="slide">
                     <div class="icon-holder">
-                        <img src="{{ url('public/assets/images/icon/eye.png') }}" alt="Eye Icon">
+                        <img class="eyeicon" src="{{ url('public/assets/images/resources/logoo.jpg') }}" alt="Eye Icon">
                     </div>
-                    <div class="image-layer" style="background-image:url(public/assets/images/slides/slide-v1-2.jpg)"></div>
+                    <div class="image-layer" style="background-image:url(public/assets/images/slides/slide1.jpg)"></div>
                     <div class="auto-container">
                         <div class="content right">
                             <h3>Welcome to Shrisharada</h3>
-                            <h2>Optometrist<br> & eyes care<br> specialist</h2>
-                            <div class="btns-box">
-                                <a class="btn-one" href="#"><span class="txt">Discover More<i
-                                            class="fa fa-angle-double-right round" aria-hidden="true"></i></span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Slide -->
-                <div class="slide">
-                    <div class="icon-holder">
-                        <img src="{{ url('public/assets/images/icon/eye.png') }}" alt="Eye Icon">
-                    </div>
-                    <div class="image-layer" style="background-image:url(public/assets/images/slides/slide-v1-3.jpg)"></div>
-                    <div class="auto-container">
-                        <div class="content right">
-                            <h3>Welcome to Shrisharada</h3>
-                            <h2>Optometrist<br> & eyes care<br> specialist</h2>
+                            <h2>Eye & Ears<br> Hospital</h2>
                             <div class="btns-box">
                                 <a class="btn-one" href="#"><span class="txt">Discover More<i
                                             class="fa fa-angle-double-right round" aria-hidden="true"></i></span></a>
@@ -211,7 +211,7 @@
                 <div class="col-xl-4 col-lg-4">
                     <div class="single-service-style1 wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
                         <div class="img-holder">
-                            <img src="{{ url('public/assets/images/services/servicev11.jpg') }}" alt="Awesome Image">
+                            <img src="{{ url('public/assets/images/services/servicev111.jpg') }}" alt="Awesome Image">
                             <div class="icon"><span class="icon-glasses"></span></div>
                         </div>
                         <div class="text-holder">
