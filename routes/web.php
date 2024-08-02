@@ -21,6 +21,7 @@ Route::group(['prefix' => '/', 'namespace' => 'App\Http\Controllers\Home'], func
     Route::get('/our-doctor', function () { return view('pages.ourdoctor'); });
     Route::get('/faq', function () { return view('pages.faq'); });
     Route::get('/contact', function () { return view('pages.contact'); });
+    Route::get('/privacy-policy', function () { return view('pages.privacypolicy'); });
 
 });
 

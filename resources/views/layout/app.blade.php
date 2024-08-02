@@ -356,12 +356,12 @@
                     </div>
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 wow animated fadeInUp centercontent" data-wow-delay="0.12s">
                         <div class="link1 clearfix">
-                            <ul class="bottom_link"><a href="{{url('/')}}">About</a></ul>
-                            <ul class="bottom_link"><a href="{{url('/')}}">Treatments</a></ul>
-                            <ul class="bottom_link"><a href="{{url('/')}}">Our Doctors</a></ul>
-                            <ul class="bottom_link"><a href="{{url('/')}}">Contact</a></ul>
-                            <ul class="bottom_link"><a href="{{url('/')}}">Privacy Policy</a></ul>
-                            <ul class="bottom_link"><a href="{{url('/')}}">Appointment</a></ul>
+                            <ul class="bottom_link"><a href="{{url('/aboutus')}}">About</a></ul>
+                            {{-- <ul class="bottom_link"><a href="{{url('/')}}">Treatments</a></ul> --}}
+                            <ul class="bottom_link"><a href="{{url('/our-doctor')}}">Our Doctors</a></ul>
+                            <ul class="bottom_link"><a href="{{url('/contact')}}">Contact</a></ul>
+                            {{-- <ul class="bottom_link"><a href="{{url('/privacy-policy')}}">Privacy Policy</a></ul> --}}
+                            <ul class="bottom_link"><a href="https://wa.me/+919400308374?text=Hi">Appointment</a></ul>
                         </div>
                     </div>
                 </div>
