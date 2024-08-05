@@ -13,11 +13,10 @@
                     <div class="image-layer" style="background-image:url(public/assets/images/slides/slide111.jpg)"></div>
                     <div class="auto-container">
                         <div class="content right">
-                            <h3>Welcome to Shrisharada</h3>
+                            {{-- <h3>Welcome to Shrisharada</h3> --}}
                             <h2>Eye & Ears<br> Hospital</h2>
                             <div class="btns-box">
-                                <a class="btn-one" href="#"><span class="txt">Discover More<i
-                                            class="fa fa-angle-double-right round" aria-hidden="true"></i></span></a>
+                                <a class="btn-one" href="#"><span class="txt">Discover More<i class="fa fa-angle-double-right round" aria-hidden="true"></i></span></a>
                             </div>
                         </div>
                     </div>
@@ -33,8 +32,7 @@
                             <h3>Welcome to Shrisharada</h3>
                             <h2>Eye & Ears<br> Hospital</h2>
                             <div class="btns-box">
-                                <a class="btn-one" href="#"><span class="txt">Discover More<i
-                                            class="fa fa-angle-double-right round" aria-hidden="true"></i></span></a>
+                                <a class="btn-one" href="#"><span class="txt">Discover More<i class="fa fa-angle-double-right round" aria-hidden="true"></i></span></a>
                             </div>
                         </div>
                     </div>
@@ -50,14 +48,13 @@
                             <h3>Welcome to Shrisharada</h3>
                             <h2>Eye & Ears<br> Hospital</h2>
                             <div class="btns-box">
-                                <a class="btn-one" href="#"><span class="txt">Discover More<i
-                                            class="fa fa-angle-double-right round" aria-hidden="true"></i></span></a>
+                                <a class="btn-one" href="#"><span class="txt">Discover More<i class="fa fa-angle-double-right round" aria-hidden="true"></i></span></a>
                             </div>
                         </div>
                     </div>
                 </div>
-
             </div>
+            
         </div>
     </section>
     <!-- End Main Slider -->
