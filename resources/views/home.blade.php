@@ -14,7 +14,7 @@
                     <div class="auto-container">
                         <div class="content right">
                             {{-- <h3>Welcome to Shrisharada</h3> --}}
-                            <h2>Eye & Ears<br> Hospital</h2>
+                            <h2>Eye & Ent<br> Hospital</h2>
                             <div class="btns-box">
                                 <a class="btn-one" href="#"><span class="txt">Discover More<i class="fa fa-angle-double-right round" aria-hidden="true"></i></span></a>
                             </div>
@@ -30,7 +30,7 @@
                     <div class="auto-container">
                         <div class="content right">
                             <h3>Welcome to Shrisharada</h3>
-                            <h2>Eye & Ears<br> Hospital</h2>
+                            <h2>Eye & Ent<br> Hospital</h2>
                             <div class="btns-box">
                                 <a class="btn-one" href="#"><span class="txt">Discover More<i class="fa fa-angle-double-right round" aria-hidden="true"></i></span></a>
                             </div>
@@ -46,7 +46,7 @@
                     <div class="auto-container">
                         <div class="content right">
                             <h3>Welcome to Shrisharada</h3>
-                            <h2>Eye & Ears<br> Hospital</h2>
+                            <h2>Eye & Ent<br> Hospital</h2>
                             <div class="btns-box">
                                 <a class="btn-one" href="#"><span class="txt">Discover More<i class="fa fa-angle-double-right round" aria-hidden="true"></i></span></a>
                             </div>
@@ -81,11 +81,11 @@
                 <div class="col-xl-5">
                     <div class="welcome-content-box">
                         <div class="sec-title">
-                            <h2><span>Introducing</span> the quality<br> optometrist clinic</h2>
+                            <h2><span>Introducing</span> the quality<br> Eye care services</h2>
                         </div>
                         <div class="inner-content">
                             <div class="text">
-                                <p>Welcome to our premier optometrist clinic, where your vision is our top priority. At our
+                                <p>Welcome to our premier Eye care services, where your vision is our top priority. At our
                                     state-of-the-art facility, we combine advanced technology with personalized care to
                                     ensure the best possible eye health for our patients.</p>
                             </div>
@@ -422,7 +422,7 @@
                             </div>
                             <div class="title">
                                 <h2>21,700</h2>
-                                <span>Happy patients in 20 years</span>
+                                <span>Happy patients in 20 yEnt</span>
                             </div>
                         </div>
 
