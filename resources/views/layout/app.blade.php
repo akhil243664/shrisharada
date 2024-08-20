@@ -45,6 +45,8 @@
         <script src="{{ url('public/assets/js/html5shiv.js') }}"></script>
     <![endif]-->
 
+    <meta name="p:domain_verify" content="dcf3bace00f773cd7d391b62191b34d1"/>
+
 </head>
 
 <body>
@@ -64,24 +66,28 @@
                             <div class="header-social-link">
                                 <ul>
                                     <li>
-                                        <a href="{{ url('/') }}"><i class="fa fa-facebook"
+                                        <a href="https://www.facebook.com/profile.php?id=61561473473687"><i class="fa fa-facebook"
                                                 aria-hidden="true"></i></a>
                                     </li>
                                     <li>
-                                        <a href="{{ url('/') }}"><i class="fa fa-instagram"
+                                        <a href="https://www.instagram.com/shrisharada_eye_and_ent/"><i class="fa fa-instagram"
                                                 aria-hidden="true"></i></a>
                                     </li>
                                     {{-- <li>
                                         <a href="{{url('/')}}"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                                     </li> --}}
                                     <li>
-                                        <a href="{{ url('/') }}"><i class="fa fa-linkedin"
+                                        <a href="https://www.linkedin.com/groups/14501440/"><i class="fa fa-linkedin"
                                                 aria-hidden="true"></i></a>
                                     </li>
                                     <li>
-                                        <a href="{{ url('/') }}"><i class="fa fa-pinterest"
+                                        <a href="https://www.youtube.com/@SharadaEYEandENTHospital"><i class="fa fa-youtube"
                                                 aria-hidden="true"></i></a>
                                     </li>
+                                    {{-- <li>
+                                        <a href="{{ url('/') }}"><i class="fa fa-pinterest"
+                                                aria-hidden="true"></i></a>
+                                    </li> --}}
                                 </ul>
                             </div>
                             <div class="button-box">
