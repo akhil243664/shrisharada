@@ -84,10 +84,10 @@
                                         <a href="https://www.youtube.com/@SharadaEYEandENTHospital"><i class="fa fa-youtube"
                                                 aria-hidden="true"></i></a>
                                     </li>
-                                    {{-- <li>
-                                        <a href="{{ url('/') }}"><i class="fa fa-pinterest"
+                                    <li>
+                                        <a href="https://in.pinterest.com/dmshrisharada"><i class="fa fa-pinterest"
                                                 aria-hidden="true"></i></a>
-                                    </li> --}}
+                                    </li>
                                 </ul>
                             </div>
                             <div class="button-box">
